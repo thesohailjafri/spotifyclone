@@ -1,0 +1,16 @@
+.liked__songs__playlist {
+	color: white;
+	text-align: center;
+	display: table-cell;
+	width: 100vw;
+	vertical-align: middle;
+	border-radius: 5px;
+	height: 121px;
+	background: rgb(38, 70, 231);
+	background: radial-gradient(circle, #0a111b 0%, #000009 100%);
+}
+.your__playlist {
+	display: flex;
+	flex-wrap: wrap;
+	overflow-y: hidden;
+}

@@ -1,0 +1,37 @@
+.search__form {
+	border: 0;
+	border-radius: 100px;
+	background-color: white;
+	height: 40px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 0px 10px 0px 10px;
+	width: 30%;
+	min-width: 180px;
+	margin: 0 5px;
+}
+.search__input {
+	background-color: transparent;
+	border: none;
+	padding: 0;
+	font-size: 14px;
+	width: 90%;
+	margin-left: 5px;
+	border: none;
+	outline: none;
+}
+.no__match__found {
+	text-align: center;
+	text-transform: capitalize;
+	color: white;
+	/* display: flex;
+	flex-direction: row; */
+	align-items: center;
+}
+@media only screen and (max-width: 600px) {
+	.search__form {
+		width: 10%;
+		min-width: 75px;
+	}
+}

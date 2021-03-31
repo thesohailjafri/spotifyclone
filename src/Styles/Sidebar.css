@@ -1,0 +1,65 @@
+.sidebar__logo {
+	width: 200px;
+	margin-left: 13px;
+	margin-right: auto;
+}
+.logo {
+	contain: content;
+	width: 150px;
+}
+.sidebar__nav_elements {
+	margin: 0px 15px;
+}
+.link {
+	text-decoration: none;
+}
+.sidebar__nav_element {
+	color: #b3b3b3;
+	padding: 1px;
+	display: flex;
+	flex-direction: row;
+	font-size: 16px;
+	align-items: center;
+	margin-top: 8px;
+	font-weight: 550;
+	cursor: pointer;
+}
+.sidebar__nav_element > span {
+	text-decoration: none;
+}
+.sidebar__nav_element:hover {
+	transform: scale(1.025);
+	transition: ease-in 200ms;
+	border-radius: 5px;
+	color: white;
+	font-weight: 600;
+}
+.sidebar__nav_element_clicked {
+	border-radius: 5px;
+	color: white;
+	padding: 1px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: 8px;
+	font-weight: 550;
+	background-color: #1db954;
+	transition: ease 200ms;
+	outline: none;
+}
+.sidebar__playlist {
+	font-weight: 600;
+	letter-spacing: 1.5px;
+	align-items: center;
+	padding-top: 25px;
+}
+.sidebar__dash {
+	border: 0.01px solid;
+	width: 180px;
+}
+.sidebar_icon {
+	padding-right: 5px;
+}
+.sidebar_playlists {
+	font-weight: 550;
+}

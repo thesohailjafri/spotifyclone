@@ -1,0 +1,21 @@
+.login {
+	display: grid;
+	background-color: black;
+	height: 100vh;
+	place-items: center;
+}
+
+.login__svg {
+	width: 600px;
+	height: auto;
+}
+
+.login > a {
+	color: black;
+	text-decoration: none;
+	padding: 20px;
+	border-radius: 99px;
+	font-weight: 700;
+	letter-spacing: 4px;
+	background-color: #1db954;
+}

@@ -1,0 +1,41 @@
+.artists__row {
+	display: flex;
+	justify-content: space-between;
+	overflow-y: hidden;
+}
+.artist__banner {
+	height: 160px;
+	width: 160px;
+	border-radius: 50%;
+	display: block;
+	margin: 15px;
+	-webkit-box-shadow: 0px 3px 15px -4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 3px 15px -4px rgba(0, 0, 0, 0.5);
+}
+.artist {
+	background-color: #0a111b;
+	border-radius: 5px;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+	margin-right: 15px;
+	height: 250px;
+	width: 190px;
+	/* background: linear-gradient(rgba(29, 32, 41, 0.1), rgba(0, 0, 0, 1)); */
+}
+.artist:last-of-type {
+	margin-right: 0px;
+}
+.artist__details {
+	margin: 15px;
+}
+.artist__type {
+	text-transform: capitalize;
+	padding-top: 3px;
+	padding-bottom: 12px;
+	font-size: 0.9rem;
+}
+.artist__name {
+	font-weight: bold;
+	color: white;
+}

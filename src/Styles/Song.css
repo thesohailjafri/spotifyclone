@@ -1,0 +1,41 @@
+.search__song {
+	display: flex;
+}
+.song__image {
+	height: 40px;
+	width: auto;
+	border-radius: 5px;
+}
+.song__artists {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.song__block {
+	width: 100%;
+	margin: 0px 10px;
+	padding: 5px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	border-radius: 5px;
+}
+.song__block:hover {
+	background-color: rgba(0, 0, 0, 0.15);
+}
+.song__image {
+	margin: 5px 15px 5px 5px;
+}
+.song__details {
+	margin: 0;
+	width: 80%;
+	color: lightgray;
+}
+.song__name {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	color: white;
+	margin-bottom: 2px;
+	font-weight: 600;
+}

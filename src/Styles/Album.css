@@ -1,0 +1,42 @@
+.followed_albums {
+	display: flex;
+	overflow-y: hidden;
+}
+.album {
+	background-color: #0a111b;
+	border-radius: 5px;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+	margin-right: 15px;
+	height: 250px;
+	width: 190px;
+	/* background: linear-gradient(rgba(29, 32, 41, 0.1), rgba(0, 0, 0, 1)); */
+}
+.album__banner {
+	height: 160px;
+	width: 160px;
+	border-radius: 5px;
+	margin: 15px;
+	-webkit-box-shadow: 0px 3px 15px -4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 3px 15px -4px rgba(0, 0, 0, 0.5);
+}
+.album__details {
+	margin: 0px 15px;
+}
+.album__name {
+	font-weight: bold;
+	color: white;
+	white-space: nowrap;
+	min-width: 160px;
+	max-width: 240px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	text-transform: capitalize;
+}
+.album__artist {
+	list-style: none;
+	padding-top: 3px;
+	padding-bottom: 12px;
+	font-size: 0.8rem;
+}
