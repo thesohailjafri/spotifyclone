@@ -10,9 +10,11 @@
 ### Liked Song Page
 ![image](https://user-images.githubusercontent.com/66732877/117536026-814cdf80-b016-11eb-800e-0ae97f52f9f8.png)
 
+This Web App was created using spotify [developer api](https://developer.spotify.com/documentation/web-api/)
 
 
-# Getting Started with Create React App
+
+# Getting Started with React Spotify Clone App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
