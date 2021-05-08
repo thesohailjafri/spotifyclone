@@ -1,8 +1,13 @@
 # Site screenshots
+Home Page
 ![image](https://user-images.githubusercontent.com/66732877/117535984-4f3b7d80-b016-11eb-88bd-554854786c5d.png)
+Search Page
 ![image](https://user-images.githubusercontent.com/66732877/117535992-582c4f00-b016-11eb-84f9-1806367864b7.png)
+Your Playlists Page
 ![image](https://user-images.githubusercontent.com/66732877/117535998-5f535d00-b016-11eb-9858-e132c2c7e119.png)
+Create Playlist Page
 ![image](https://user-images.githubusercontent.com/66732877/117536024-7e51ef00-b016-11eb-9593-3edc97f12721.png)
+Liked Song Page
 ![image](https://user-images.githubusercontent.com/66732877/117536026-814cdf80-b016-11eb-800e-0ae97f52f9f8.png)
 
 
