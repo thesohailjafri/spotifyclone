@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Site screenshots
+### Home Page
+![image](https://user-images.githubusercontent.com/66732877/117535984-4f3b7d80-b016-11eb-88bd-554854786c5d.png)
+### Search Page
+![image](https://user-images.githubusercontent.com/66732877/117535992-582c4f00-b016-11eb-84f9-1806367864b7.png)
+### Your Playlists Page
+![image](https://user-images.githubusercontent.com/66732877/117535998-5f535d00-b016-11eb-9858-e132c2c7e119.png)
+### Create Playlist Page
+![image](https://user-images.githubusercontent.com/66732877/117536024-7e51ef00-b016-11eb-9593-3edc97f12721.png)
+### Liked Song Page
+![image](https://user-images.githubusercontent.com/66732877/117536026-814cdf80-b016-11eb-800e-0ae97f52f9f8.png)
+
+This Web App was created using spotify [developer api](https://developer.spotify.com/documentation/web-api/)
+
+
+
+# Getting Started with React Spotify Clone App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,6 +85,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-    <p>Welcome to home</p>
-            <h2>{user?.body?.display_name}</h2>
-            <img src={user?.body?.images[0]?.url} alt="user" />
+
